@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+# use Haml for templates
+gem 'haml'
+
